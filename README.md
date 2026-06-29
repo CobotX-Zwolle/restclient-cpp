@@ -1,3 +1,13 @@
+# CobotX install 
+
+'''
+sudo apt install libcurlpp-dev libcurl4-openssl-dev
+./autogen.sh
+./configure 
+sudo make install
+'''
+
+
 # REST client for C++
 ![build status](https://github.com/mrtazz/restclient-cpp/actions/workflows/tests.yaml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/mrtazz/restclient-cpp/badge.svg?branch=master&service=github)](https://coveralls.io/github/mrtazz/restclient-cpp?branch=master)
